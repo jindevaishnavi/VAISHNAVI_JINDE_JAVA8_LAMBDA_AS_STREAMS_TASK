@@ -1,0 +1,2 @@
+# VAISHNAVI_JINDE_JAVA8_LAMBDA_AS_STREAMS_TASK
+Java 8 lambda as streams task
